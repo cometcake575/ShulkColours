@@ -1,0 +1,6 @@
+name: ShulkColours
+version: 1.0.0
+main: com.starshootercity.shulkcols.ShulkColours
+description: PaperMC plugin that allows dying of Shulkers like in Bedrock Edition
+api-version: '1.17'
+author: cometcake575
